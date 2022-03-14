@@ -1,0 +1,27 @@
+{
+  "name": "ndut-nats",
+  "version": "0.6.0",
+  "description": "Nats for Ndut Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/ndut-nats.git"
+  },
+  "keywords": [
+    "ndut",
+    "nats",
+    "fastify"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/ndut-nats/issues"
+  },
+  "homepage": "https://github.com/ardhi/ndut-nats#readme",
+  "dependencies": {
+    "nats": "^2.6.1"
+  }
+}
